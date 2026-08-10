@@ -12,6 +12,8 @@ The portfolio is composed of a single-page layout with a smooth scroll experienc
 - **About section**: A profile summary with experience highlights, coding stats, and a skills badge list.
 - **Contact section**: A centered call-to-action card with email and social links for GitHub and LinkedIn.
 - **Footer**: Simple branding, contact icons, and social links.
+  <img width="1614" height="5174" alt="Opera Captura de pantalla_2026-08-10_162827_localhost" src="https://github.com/user-attachments/assets/da2f61a7-c228-44ff-ad07-ac091925e4c5" />
+
 
 ## Visual Style
 
